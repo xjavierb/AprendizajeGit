@@ -5,3 +5,9 @@ funcion union()
 {
 ...
 }
+
+funcion cambio()
+{
+-----
+-----
+}
