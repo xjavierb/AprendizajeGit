@@ -1,2 +1,13 @@
 archivo
 Nota: versión 1
+
+funcion union()
+{
+...
+}
+
+funcion cambio()
+{
+-----
+-----
+}
